@@ -19,7 +19,7 @@ I'm a Software Engineering student who enjoys learning and building projects.
 
 ## 📫 Connect With Me
 
-* LinkedIn: *Add your LinkedIn profile link here*
+* LinkedIn: https://www.linkedin.com/in/bilal-khan-lodhi/
 
 ---
 
