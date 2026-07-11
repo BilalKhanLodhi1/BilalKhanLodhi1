@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Bilal 👋
 
-<!--
-**BilalKhanLodhi1/BilalKhanLodhi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student who enjoys learning and building projects.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Network Engineering
+* Cybersecurity
+* Flutter Development
+* Backend Development
+
+## 💻 What You'll Find Here
+
+* Personal and academic projects
+* Flutter applications
+* Backend development projects
+* Networking and cybersecurity labs
+* Open-source contributions as I learn
+
+## 📫 Connect With Me
+
+* LinkedIn: *Add your LinkedIn profile link here*
+
+---
+
+**Always learning. Always building.**
